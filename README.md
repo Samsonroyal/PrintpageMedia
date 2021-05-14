@@ -1,6 +1,8 @@
 # PrintpageMedia
 
-Printpage Media is a Ugandan media company that deals in and provides qualty graphics to comapnies, individuals and organisations
+Printpage Media is a Ugandan media company that deals in and provides quality graphics to companies, individuals and organisations.
+
+They design logos, flers and posters; are able to print these onto any desired media.
 
 They started in late 2020, and have worked with a number of clients like Vortan Systems, Mule collections, WallyYange among others
 
