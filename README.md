@@ -1,13 +1,17 @@
-# PrintpageMedia
+## PrintpageMedia Website
 
-Printpage Media is a Ugandan media company that deals in and provides quality graphics to companies, individuals and organisations.
+## About Them
+They are a team of individuals with a diverse culture but with a common goal and vision which started on 12th November 2020 due to the increasing demand for graphics design experts able to deliver projects on time and fitting a certain budget. The team is made up of highly skilled graphics designers who are continuously evolving and adapting to the ever-changing graphics world and eco-system.
 
-They design logos, flers and posters; are able to print these onto any desired media.
+They ensure to blend creativity and professionalism in each of their client's projects and they guarantee authenticity with each project.
+## What they do
+They design custom logo packages for companies both responsive and non-responsive depending on the request of the client. They also design posters, fliers, lightboxes and billboard signs.
 
-They started in late 2020, and have worked with a number of clients like Vortan Systems, Veg-eat-ables, Kwetu Studios, YEP, Mule collections, WallyYange among others
+## See it Live
+https://printpagemedia.netlify.app
 
-This repo is dedicated to their website. Visit the website here https://printpagemedia.netlify.app/
+👆🏼👆🏼👆🏼👆🏼👆🏼
+Here is the deployment of their website. 
 
-It's designed with love ❤️ by Were Samson Bruno
-
-@Samsonroyal on Github, @samsonroyal on Wordpress
+## Who built this
+It's designed with love ❤️ by Were Samson Bruno 
